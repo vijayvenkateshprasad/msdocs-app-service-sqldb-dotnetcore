@@ -6,7 +6,7 @@ page_type: sample
 description: "A sample application you can use to follow along with Tutorial: Deploy an ASP.NET Core and Azure SQL Database app to Azure App Service."
 products:
 - azure
-- aspnet-core
+- aspnet-core..
 - azure-app-service..
 ---
 
