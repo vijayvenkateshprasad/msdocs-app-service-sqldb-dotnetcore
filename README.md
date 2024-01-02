@@ -7,7 +7,7 @@ description: "A sample application you can use to follow along with Tutorial: De
 products:
 - azure
 - aspnet-core
-- azure-app-service
+- azure-app-service..
 ---
 
 # .NET Core MVC sample for Azure App Service
